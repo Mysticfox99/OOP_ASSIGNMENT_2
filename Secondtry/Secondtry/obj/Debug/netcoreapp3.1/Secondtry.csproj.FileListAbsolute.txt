@@ -1,0 +1,11 @@
+C:\Users\Mysticfox99\Desktop\OOP_Asssignment_2\Secondtry\Secondtry\bin\Debug\netcoreapp3.1\Secondtry.exe
+C:\Users\Mysticfox99\Desktop\OOP_Asssignment_2\Secondtry\Secondtry\bin\Debug\netcoreapp3.1\Secondtry.deps.json
+C:\Users\Mysticfox99\Desktop\OOP_Asssignment_2\Secondtry\Secondtry\bin\Debug\netcoreapp3.1\Secondtry.runtimeconfig.json
+C:\Users\Mysticfox99\Desktop\OOP_Asssignment_2\Secondtry\Secondtry\bin\Debug\netcoreapp3.1\Secondtry.runtimeconfig.dev.json
+C:\Users\Mysticfox99\Desktop\OOP_Asssignment_2\Secondtry\Secondtry\bin\Debug\netcoreapp3.1\Secondtry.dll
+C:\Users\Mysticfox99\Desktop\OOP_Asssignment_2\Secondtry\Secondtry\bin\Debug\netcoreapp3.1\Secondtry.pdb
+C:\Users\Mysticfox99\Desktop\OOP_Asssignment_2\Secondtry\Secondtry\obj\Debug\netcoreapp3.1\Secondtry.csprojAssemblyReference.cache
+C:\Users\Mysticfox99\Desktop\OOP_Asssignment_2\Secondtry\Secondtry\obj\Debug\netcoreapp3.1\Secondtry.AssemblyInfoInputs.cache
+C:\Users\Mysticfox99\Desktop\OOP_Asssignment_2\Secondtry\Secondtry\obj\Debug\netcoreapp3.1\Secondtry.AssemblyInfo.cs
+C:\Users\Mysticfox99\Desktop\OOP_Asssignment_2\Secondtry\Secondtry\obj\Debug\netcoreapp3.1\Secondtry.dll
+C:\Users\Mysticfox99\Desktop\OOP_Asssignment_2\Secondtry\Secondtry\obj\Debug\netcoreapp3.1\Secondtry.pdb
